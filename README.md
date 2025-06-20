@@ -12,7 +12,3 @@ If you’d like to support my work, feel free to send a donation:
 
 📬 **USDT (TRC20) Wallet:**  
 `TJKpjZnKeu34x7k1DugUnLWQgEWu6As5Ga`
-
-📷 **Scan QR Code:**
-
-![USDT QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=TJKpjZnKeu34x7k1DugUnLWQgEWu6As5Ga)
