@@ -12,3 +12,7 @@ If you’d like to support my work, feel free to send a donation:
 
 📬 **USDT (TRC20) Wallet:**  
 `TJKpjZnKeu34x7k1DugUnLWQgEWu6As5Ga`
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ibrahim307le&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
