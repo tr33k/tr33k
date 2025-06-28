@@ -4,15 +4,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tr33k&show_icons=true&theme=dark" alt="tr33k" />
 </p>
 
-## 💸 Support Me with USDT
-
-If you’d like to support my work, feel free to send a donation:
-
-[![Donate USDT](https://img.shields.io/badge/Donate-USDT-green?logo=tether&style=for-the-badge)](https://tronscan.org/#/address/TJKpjZnKeu34x7k1DugUnLWQgEWu6As5Ga)
-
-📬 **USDT (TRC20) Wallet:**  
-`TJKpjZnKeu34x7k1DugUnLWQgEWu6As5Ga`
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ibrahim307le&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
